@@ -39,11 +39,11 @@ The ESP32 continuously reads data from the DHT22 sensor and displays the sensor 
 
 ### Circuit Diagram
 
-![Circuit Diagram](screenshot/circuit.png)
+![Circuit Diagram](screenshot/circuit.jpg)
 
 ### Serial Monitor Output
 
-![Output](screenshot/output.png)
+![Output](screenshot/output.jpg)
 
 ## Wokwi Project Link
 
